@@ -1,0 +1,11 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# 产出物不进仓库：镜头表与图片属于业务数据，不是 skill 本身
+/output/
